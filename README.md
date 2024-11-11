@@ -1,4 +1,4 @@
-# the-office-dvd-animation-rn
+# react-native-the-office
 
 DVD logo animation inspired by The Office show.
 
